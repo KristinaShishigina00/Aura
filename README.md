@@ -5,5 +5,5 @@
 
 ## Демонстрация приложения
 
-[![Demo](images/preview.png)](https://youtu.be/Ott65TCBb2E)
+https://youtu.be/Ott65TCBb2E
 
