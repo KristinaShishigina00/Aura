@@ -73,21 +73,8 @@
 
 [thesis]: docs/thesis.pdf
 [slides]: docs/presentation.pdf
-[video]: AURA_VIDEO_URL
+[video]: [AURA_VIDEO_URL](https://youtu.be/Ott65TCBb2E)
 [requirements]: docs/analysis/requirements.md
 [processes]: docs/analysis/processes.md
 [data-model]: docs/analysis/data-model.md
 [business-rules]: docs/analysis/business-rules.md
-
-
-
-
-[Презентация Шишигина.pdf](https://github.com/user-attachments/files/29613114/1.pdf)
-
-[Шишигина К.Н ВКР.pdf](https://github.com/user-attachments/files/29613125/2.pdf)
-
-
-## Демонстрация приложения
-
-https://youtu.be/Ott65TCBb2E
-
