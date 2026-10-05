@@ -74,7 +74,7 @@
 [thesis]: docs/thesis.pdf
 [slides]: docs/presentation.pdf
 [video]: https://youtu.be/Ott65TCBb2E
-[requirements]: docs/analysis/requirements.md
+[requirements]: docs/requirements.pdf
 [processes]: docs/analysis/processes.md
 [data-model]: docs/analysis/data-model.md
 [business-rules]: docs/analysis/business-rules.md
