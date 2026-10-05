@@ -73,7 +73,7 @@
 
 [thesis]: docs/thesis.pdf
 [slides]: docs/presentation.pdf
-[video]: [AURA_VIDEO_URL](https://youtu.be/Ott65TCBb2E)
+[video]: https://youtu.be/Ott65TCBb2E
 [requirements]: docs/analysis/requirements.md
 [processes]: docs/analysis/processes.md
 [data-model]: docs/analysis/data-model.md
